@@ -1,0 +1,61 @@
+*  { font-family: 'Roboto',
+	 sans-serif;
+	 margin:0;
+	 padding:0;
+	border:0;
+	box-sizing:border-box;
+	}
+
+body {max-width:365px;
+	  height:100%;}
+
+footer {display:flex;margin-top:50%;}
+
+h1 {margin-left:10%;}
+
+.imgs {width:16vw;
+	   margin-left:11%;
+		margin-top:20%;}
+
+.t1 {margin-left:17%;
+	margin-right:2%;}
+
+.bot1 {margin-left:20%;
+		border-radius:8px;
+		width:20%;
+		background-color:black;
+		color: #FFFF;}
+
+#bot2 {margin-left:35%;
+		border-radius:8px;
+		width:20%;
+		background-color:black;
+		color: #FFFF;}		
+
+#bot3 {margin-left:30%;
+		border-radius:8px;
+		width:35%;
+		background-color:black;
+		color: #FFFF;}		
+
+.lab1 {margin-left:2.5%;}		
+
+#logo {width:100%;
+	   height:28vw;}
+
+#placa {margin-top:10%;}
+
+#titulos {display:flex;}
+
+.inpute {margin-left:2%;}
+
+.botoes {width:20vw;margin-left:15%;
+		}
+
+ #esquierda {margin-left:20%;}
+
+ #derecha {margin-left:50%;}
+
+
+#footer1 {margin-top:25%;}
+
